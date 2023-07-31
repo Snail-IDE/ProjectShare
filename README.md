@@ -1,3 +1,3 @@
-# Placeholder
+# ProjectShare
 
-Placeholder is an experimental platform for ephemeral Scratch project sharing.
+ProjectShare is an experimental platform for ephemeral Snail-IDE project sharing.
